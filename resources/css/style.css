@@ -10,7 +10,18 @@ h1 {
     font-weight: normal;
 }
 
-p {
+.link {
     color: aquamarine;
     font-size: 16px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
 }
